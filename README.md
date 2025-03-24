@@ -43,7 +43,3 @@ Install the required package:
 ```bash
 pip install ds_store
 ```
-
-## License
-
-This project is released under the MIT License.
